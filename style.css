@@ -5,14 +5,14 @@
 
 a{
     text-decoration: none;
-    color: red;
+    color: red(0, 255, 140);
 }
 
 h1, h2, h3{
     margin: 0%;
 }
 #container{
-    background-color: white;
+    background-color: white(5, 5, 5, 0);
     width: 800px;
     margin-left: auto;
     margin-right: auto;
